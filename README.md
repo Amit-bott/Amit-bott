@@ -1,18 +1,6 @@
-## Hi there 👋
+# 💫 About Me:
+<br>Machine Learning & Deep Learning projects<br><br>ANN-based models (Churn Prediction, Insurance Cost Prediction, Drug Classification)<br><br>End-to-end Data Science projects with Streamlit dashboards<br><br>Real-world projects using Python, TensorFlow, Keras, Scikit-learn<br><br> & intelligent models 🚀
 
-<!--
-**Amit-bott/Amit-bott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-Machine Learning & Deep Learning projects
-
-ANN-based models (Churn Prediction, Insurance Cost Prediction, Drug Classification)
-
-End-to-end Data Science projects with Streamlit dashboards
-
-Real-world projects using Python, TensorFlow, Keras, Scikit-learn
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Its__h4cker__69) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Amit Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ak6013348@gmail.com) 
