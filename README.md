@@ -6,6 +6,10 @@
 <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞"></a>
 </p>
 
+<p align="center">
+  <img src="<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/1038f3f6-6c9d-45ca-8def-6ccdad5734b8" />
+" width="90%" />
+</p>
 
 <!-- Hero Banner -->
 <img src="<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/af036c7d-a32a-4fb4-bf5d-633874a3ed48" />
