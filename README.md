@@ -39,7 +39,16 @@
 ---
 
 ## 🛠 Languages & Tools
-<p align="center"> <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=AI+%26+ML+Stack&align=center&titleAlign=center&fontSize=18&lineCount=3&theme=github_dark&line1=python,Python,3776AB;tensorflow,TensorFlow,FF6F00;scikitlearn,Scikit-Learn,F7931E;&line2=streamlit,Streamlit,FF4B4B;pandas,Pandas,150458;numpy,NumPy,013243;&line3=git,Git,F05032;github,GitHub,181717;"> </p>
+
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=python,cpp,html,ai,pr,mysql&theme=dark&perline=6"
+    style="
+      transform: perspective(1000px) rotateX(12deg) rotateY(-12deg);
+      filter: drop-shadow(0 0 15px #00f7ff) drop-shadow(0 0 30px #00f7ff);
+    "
+  />
+</p>
 
 
 ## 📌 Featured Projects
