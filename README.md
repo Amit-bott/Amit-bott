@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />" width="90%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 
 <!-- Hero Banner -->
-<img src="https://github.com/user-attachments/assets/af036c7d-a32a-4fb4-bf5d-633874a3ed48" />" width="100%">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtQ7WmIn1IGnEbTHtXdALr-fqnkGQ08v8nbI5lumn-hQ&s8" width="100%">
 
 <!-- Intro -->
 <h3 align="center">A Passionate  Python DS AI/ML/DL from India 🇮🇳</h3>
