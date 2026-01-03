@@ -1,6 +1,5 @@
 <!-- Matrix Background Animation -->
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
-[![Nmae SVG](https://github.com/Amit-bott/Amit-bott/blob/main/my-name)]
 <!-- Greeting Line -->
 <p align="center">
 <a href="#">
@@ -83,7 +82,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Amit-bott/Amit-bott/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Amit-bott/Amit-bott/blob/main/github-contribution-grid-snake.svg)
 
 ---
 
