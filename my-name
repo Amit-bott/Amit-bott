@@ -1,13 +1,13 @@
- name: gitartwork from a contribution graph
+ name: my-name from a contribution graph
  on: 
    push:
  jobs:
    build:
-     name: Make gitartwork SVG
+     name: my-name
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v3
-       - uses: Amit/gitartwork@v1
+       - uses: Amit/my-name@v1
          with:
             # Use this username's contribution graph  
             user_name: Amit
