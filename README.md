@@ -68,15 +68,16 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amit-Bott&show_icons=true&theme=radical&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amit-bott&show_icons=true&theme=radical&cache_seconds=1" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amit-Bott&theme=github_dark&v=1"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amit-bott&theme=github_dark&cache_seconds=1"/>
 </p>
 
-![Gitartwork](https://raw.githubusercontent.com/Amit-Bott/Amit-Bott/main/gitartwork.svg?v=1)
+![Gitartwork](https://raw.githubusercontent.com/Amit-bott/Amit-bott/main/gitartwork.svg?cache=1)
 
 
 ## 🐍 Contribution Snake
