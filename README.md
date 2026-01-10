@@ -68,14 +68,18 @@
 ---
 
 ## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amit-boot&show_icons=true&theme=radical" alt="Amit-bootGitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amit-Bott&show_icons=true&theme=radical" alt="Amit-Bott GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amit-boot&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amit-Bott&theme=github_dark"/>
 </p>
+
+![Gitartwork](https://raw.githubusercontent.com/Amit-Bott/Amit-Bott/main/gitartwork.svg)
+
 
 ## 🐍 Contribution Snake
 
