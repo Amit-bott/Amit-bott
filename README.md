@@ -70,18 +70,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amit-bott&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amit-boot&show_icons=true&theme=radical" alt="Amit-bootGitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-bott&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amit-boot&theme=github_dark"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amit-bott&theme=github_dark"/>
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
