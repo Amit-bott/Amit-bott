@@ -1,4 +1,4 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 <p align="center">
 <a href="#">
@@ -69,13 +69,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amit-bott&show_icons=true&theme=radical&random=12345" />
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amit-bott&theme=tokyo-night&hide_border=true)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amit-bott&theme=github_dark&random=12345"/>
-</p>
 
 ## 🐍 Contribution Snake
 
