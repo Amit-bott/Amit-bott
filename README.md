@@ -77,9 +77,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amit-bott&theme=github_dark&random=12345"/>
 </p>
 
-![Gitartwork](https://raw.githubusercontent.com/Amit-bott/Amit-bott/main/gitartwork.svg?random=12345)
-
-
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Amit-bott/Amit-bott/blob/main/github-contribution-grid-snake.svg)
