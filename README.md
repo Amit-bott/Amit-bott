@@ -69,9 +69,6 @@
 
 ## 📊 GitHub Stats
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amit-bott&theme=tokyo-night&hide_border=true)
-
-
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Amit-bott/Amit-bott/blob/main/github-contribution-grid-snake.svg)
