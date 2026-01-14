@@ -68,6 +68,39 @@
 ---
 
 ## 📊 GitHub Stats
+<!-- ===================== 3D LIVE GITHUB STATUS ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0f2027,100:203a43&text=GitHub%20Live%20System%20Status&fontColor=00eaff&fontSize=34&fontAlignY=55&desc=Real-Time%20Monitoring%20Dashboard&descAlignY=80&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-bott&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🧊 3D SYSTEM HEALTH PANEL
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,actions,git&theme=dark" />
+</p>
+
+| ⚙ Service | 📡 Live Status | ⏱ Uptime | 🔥 Health |
+|---------|---------------|----------|----------|
+| **GitHub Core** | ![Status](https://img.shields.io/website?url=https://www.githubstatus.com&style=for-the-badge&label=ONLINE&color=00ffcc) | 99.99% | 🟢 Excellent |
+| **REST / GraphQL API** | ![API](https://img.shields.io/badge/API-LIVE-00c853?style=for-the-badge&logo=github) | 99.9% | 🟢 Stable |
+| **Git Push / Pull** | ![Git](https://img.shields.io/badge/GIT-SYNCED-2196f3?style=for-the-badge&logo=git) | 99.95% | 🟢 Healthy |
+| **GitHub Actions** | ![Actions](https://img.shields.io/badge/ACTIONS-RUNNING-673ab7?style=for-the-badge&logo=githubactions) | 99.85% | 🟢 Operational |
+| **Webhooks** | ![Hooks](https://img.shields.io/badge/WEBHOOKS-ACTIVE-ff9800?style=for-the-badge) | 99.8% | 🟢 Active |
+
+---
+
+## 📊 LIVE PERFORMANCE (AUTO UPDATED)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amit-bott&theme=tokyonight" />
+</p>
 
 ## 🐍 Contribution Snake
 
