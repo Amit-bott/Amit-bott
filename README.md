@@ -94,14 +94,6 @@
 | **GitHub Actions** | ![Actions](https://img.shields.io/badge/ACTIONS-RUNNING-673ab7?style=for-the-badge&logo=githubactions) | 99.85% | 🟢 Operational |
 | **Webhooks** | ![Hooks](https://img.shields.io/badge/WEBHOOKS-ACTIVE-ff9800?style=for-the-badge) | 99.8% | 🟢 Active |
 
----
-
-## 📊 LIVE PERFORMANCE (AUTO UPDATED)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amit-bott&theme=tokyonight" />
-</p>
-
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Amit-bott/Amit-bott/blob/main/github-contribution-grid-snake.svg)
