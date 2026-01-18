@@ -104,8 +104,6 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-
 <h3 align="center">
 ✨ Thanks for visiting my profile ✨  
 <br/>
