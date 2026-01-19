@@ -56,12 +56,6 @@
 
 ## 📌 Featured Projects
 
-- 🔹 **Insurance Cost Prediction (ML)**
-- 🔹 **Deep Learning Churn Model**
-- 🔹 **Population Data Analysis**
-- 🔹 **Drug Type Classification**
-- 🔹 **AI Dashboards using Streamlit**
-
 👉 Explore all projects here:  
 🔗 https://github.com/Amit-bott?tab=repositories
 
