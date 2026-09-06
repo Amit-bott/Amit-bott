@@ -1,5 +1,5 @@
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)   
-  
+   
 <p align="center">
 <a href="#">
 <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;I'm+Amit+from+Jalandhar;Machine+Learning+%26+AI+Enthusiast+🤖;Python+Developer+🐍;Welcome+to+My+GitHub+Profile+💻">
