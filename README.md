@@ -17,7 +17,7 @@
 - 🐍 Strong in **Python, Data Analysis & Model Building**
 - 📊 Love working on **real-world datasets & dashboards**
 - 🚀 Building projects using **Streamlit, TensorFlow, Scikit-Learn**
-- 📂 Check my work here 👉 [GitHub](https://github.com/Amit-bott)
+- 📂 Check my work here 👉 [portfolio(https://portfolio-amit-69.vercel.app/)
 
 ---
 
